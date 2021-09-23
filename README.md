@@ -38,6 +38,11 @@ php artisan migrate
 php artisan db:seed --class=DevelopersSeeder
 ```
 
+Sair fo container
+```sh
+exit
+```
+
 Concluído
 
 O projeto esta disponível em http://localhost:8989/api/developers
