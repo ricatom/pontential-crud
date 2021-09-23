@@ -38,7 +38,7 @@ php artisan migrate
 php artisan db:seed --class=DevelopersSeeder
 ```
 
-Sair fo container
+Sair do container
 ```sh
 exit
 ```
